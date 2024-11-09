@@ -23,6 +23,7 @@
     </div>
     <div class="mb-3">
         <label>Data:</label>
+        <br/>
         <input type="date" name="dia" id="dia" class="form-control" value="<?php print $row->dia; ?>">
     </div>
     <div class="mb-3">
